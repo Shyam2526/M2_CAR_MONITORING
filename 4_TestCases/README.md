@@ -1,4 +1,4 @@
-### TESTCASE AND OUTPUT
+# TESTCASE AND OUTPUT
 ## HIGH LEVEL REQUIREMENT
 |  ID   | Explaination | EXPECTED RESULT | RESULT  | PASS/FAIL |
 | ----- | ----------- | --------------- | ------  | --------- |
