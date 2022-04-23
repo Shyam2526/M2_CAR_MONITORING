@@ -41,6 +41,7 @@
   |-------|--------|
   |cppcheck |  [![main_check](https://github.com/Shyam2526/M2_CAR_MONITORING/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Shyam2526/M2_CAR_MONITORING/actions/workflows/c-cpp.yml) |
   | Build on WINDOWS | [![C windows BUILD](https://github.com/Shyam2526/M2_CAR_MONITORING/actions/workflows/makefile.yml/badge.svg)](https://github.com/Shyam2526/M2_CAR_MONITORING/actions/workflows/makefile.yml) |
+  | Valgrind | [![Valgrind](https://github.com/Shyam2526/M2_CAR_MONITORING/actions/workflows/valgrind.yml/badge.svg)](https://github.com/Shyam2526/M2_CAR_MONITORING/actions/workflows/valgrind.yml) |
   
 
 ## Support
