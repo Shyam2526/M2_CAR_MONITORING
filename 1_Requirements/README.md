@@ -1,38 +1,39 @@
 # Requirements
-##  Feautures
+##  Features
   * Easy to find the obstacles.
   * To avoid accidents by providing signals to the user.
   * Automatic controlling using ultrasonic.
 
 ## Research
-  * Referred many Arduino Ultrasonic based projects.
-  * Referred many e-sources for coding part of LCD.
+  * Referred to many Arduino Ultrasonic-based projects.
+  * Referred many e-sources for the coding part of LCD.
        
-##  Key feautures
+##  Key features
   * Measuring the obstacle distance.
 ## Ultrasonic Block Diagram
 ![ultrasonic](http://transducersensors.com/wp-content/uploads/2016/10/Ultrasonic-sensor-functional-block-diagram.jpg)
-# The 4W's and a H 
+
+# The 4W's and an H 
 
 ## WHAT
-  * It is the controlling of Ultrasonic Sensor to find distance.
+  * It is the controlling of Ultrasonic Sensor to find the distance.
 ## WHY
   * The main objective of this project is to avoid accidents by giving led signals.
 ## WHO
-  * Youngesters who driving cars for the initial stages.
+  * Youngsters who drive cars for the initial stages.
 ## WHERE
-  * This project mainly comes in use at driving four wheelers and six wheelers.
+  * This project mainly comes in use for driving four-wheelers and six-wheelers.
 ## HOW
-  * This project is implemented using "Embedded C Program" based on AVR programming.
+  * This project is implemented using the "Embedded C Program" based on AVR programming.
 
 # SWOT ANALYSIS OF THE PROJECT
  ## STRENGTHS:
    * Easily Operating.
-   * Platform Independant.
+   * Platform Independent.
  ## WEAKNESS:
    * Controlling using WEB.
  ## THREATS:
-   * For long distance, it can't be find the distance of the obstacles.
+   * For long distances, it can't find the distance of the obstacles.
  
 # Detail Requirements
 

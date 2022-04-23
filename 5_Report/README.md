@@ -1,11 +1,16 @@
 # CAR MONITORING
 ## ABSTRACT
 
-This project "CAR MONITORING" is about avoid the accident before providing led signal using ultrasonic sensor. Ultrasonic sensor is trigged and echoed by atmega328 D0 and D2 pins. LCD is used to display the obstacle distance. The LCD connections are given to the atmega328 for displaying the values. Trigger PIN is used tp trigger the sensor to measure the distance, the distance is calculated by the pulse. The pulse is changed every time when the ultrasonic sensor is activated. When the sensor is moved the distance that the sensor moved is displayed. LED is also connected to show the sensor working properly, if the sensor is on the LED will glow.
+* This project "CAR MONITORING" is about avoiding accidents before providing a led signal using an ultrasonic sensor. 
+* The ultrasonic sensor is trigged and echoed by atmega328 D0 and D2 pins. LCD is used to display the obstacle distance. 
+* The LCD connections are given to the atmega328 for displaying the values. 
+* Trigger PIN is used to trigger the sensor to measure the distance, the distance is calculated by the pulse. 
+* The pulse is changed every time when the ultrasonic sensor is activated. When the sensor has moved the distance that the sensor moved is displayed. 
+* LED is also connected to show the sensor working properly, if the sensor is on the LED will glow.
 
 ## INTRODUCTION
   * Automation is the technology by which a process or procedure is performed with minimal human interference through the use of technological or mechanical devices. It is the technique of making a process or a system operate automatically.
-  * Car Monitoring consists of an electronic device or number of devices installed in a vehicle to monitor driver activities and to find obstalces opposite to the car. 
+  * Car Monitoring consists of an electronic device or number of devices installed in a vehicle to monitor driver activities and to find obstacles opposite to the car. 
 
 ## FLOW CHART
 
@@ -24,16 +29,16 @@ __fig1.2 Structural Flowchart__
   4) LED
   5) Resistor (10k ohm)
 
-## COMPONENTS DISCRIPTION
+## COMPONENTS DESCRIPTION
 * ATmega328 is an Advanced Virtual RISC (AVR) microcontroller. It supports 8-bit data processing. ATmega-328 has 32KB internal flash memory. ATmega328 has 1KB Electrically Erasable Programmable Read-Only Memory (EEPROM).
 * An ultrasonic sensor is an instrument that measures the distance to an object using ultrasonic sound waves. An ultrasonic sensor uses a transducer to send and receive ultrasonic pulses that relay back information about an object's proximity.
 * LCD (Liquid Crystal Display) is a type of flat panel display which uses liquid crystals in its primary form of operation. LEDs have a large and varying set of use cases for consumers and businesses, as they can be commonly found in smartphones, televisions, computer monitors and instrument panels.
 * LEDs are “directional” light sources, which means they emit light in a specific direction, unlike incandescent and CFL, which emit light and heat in all directions. That means LEDs are able to use light and energy more efficiently in a multitude of applications.
 ## WORKING
 * This project is mainly based on the ultrasonic sensor, which measures the distance to an object.
-* Using transducer, the ultrasonic sensor sends the wave and receive the ultrasonic pulses that relay back information about an object's proximity. 
-* The pulses are vary by the object that near the vehicles. The pulses are divided by some values(52) to get approximate distances.
-* It depends on the obstacles, the led will glow, which is connected with the resistor to avoid short circuit. 
+* Using a transducer, the ultrasonic sensor sends the wave and receives the ultrasonic pulses that relay back information about an object's proximity. 
+* The pulses are varied by the object that is near the vehicles. The pulses are divided by some values(52) to get approximate distances.
+* It depends on the obstacles, the led will glow, which is connected with the resistor to avoid a short circuit. 
 * The connections are made as per the circuit diagram before.
 ## CIRCUIT DIAGRAM
 
@@ -42,4 +47,4 @@ __fig1.2 Structural Flowchart__
 
 
 ## CONCLUSION
-        In this project, the distance is measured by using ultrasonic sensor to avoid the accidents of vehiles.
+        In this project, the distance is measured by using the ultrasonic sensor to avoid the accidents of vehicles.
