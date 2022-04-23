@@ -30,8 +30,11 @@
 * Codiga - CODE QUALITY SCORE
 [![codiga](https://img.shields.io/badge/CODIGA_QUALITY_SCORE-100-skyblue.svg)](https://api.codiga.io/project/33070/score/svg)
 
-* WorkFlow
-  - cppcheck    [![main_check](https://github.com/Shyam2526/M2_CAR_MONITORING/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Shyam2526/M2_CAR_MONITORING/actions/workflows/c-cpp.yml)
+## Workflows
+  | Type  | LINKS  |
+  |-------|--------|
+  |cppcheck |  [![main_check](https://github.com/Shyam2526/M2_CAR_MONITORING/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Shyam2526/M2_CAR_MONITORING/actions/workflows/c-cpp.yml) |
+  | Build on WINDOWS | [![C windows BUILD](https://github.com/Shyam2526/M2_CAR_MONITORING/actions/workflows/makefile.yml/badge.svg)](https://github.com/Shyam2526/M2_CAR_MONITORING/actions/workflows/makefile.yml) |
   
 
 ## Support
