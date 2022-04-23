@@ -16,6 +16,18 @@
   5. CODE BLOCKS
   6. DOXYGEN
 ```
+# FOLDERS CONTAINING
+
+| FOLDER | CONTENTS |
+| ------ | -------- |
+| 0_Abstract | Abstract.md |
+| 1_Requirements | Requirements.md |
+| 2_Design | MOTOR_CONT.MD, TEMP_FLOW.md |
+| 3_Implementation | inc, src, Makefile, Readme.md |
+| 4_TestCases | README.md |
+| 5_Report | FinalReport.md |
+| 6_Output | Video, Readme.md, mainpro.hex, temperature and humidity control.sim1 |
+
 ## Flowchart
 
 ![IMG](https://user-images.githubusercontent.com/101013448/164893446-cfc2f257-23b9-4a54-abed-e815993fc763.jpg)
