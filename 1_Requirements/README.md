@@ -10,7 +10,8 @@
        
 ##  Key feautures
   * Measuring the obstacle distance.
-
+## Ultrasonic Block Diagram
+![ultrasonic](http://transducersensors.com/wp-content/uploads/2016/10/Ultrasonic-sensor-functional-block-diagram.jpg)
 # The 4W's and a H 
 
 ## WHAT
