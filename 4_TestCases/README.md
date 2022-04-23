@@ -4,7 +4,9 @@
 | ----- | ----------- | --------------- | ------  | --------- |
 | TC 1 |   OBSTACLE DETECTED  |  DISTANCE DISPLAYED   |  DISTANCE DISPLAYED | PASS  |
 | TC 2 |   OBSTACLE MOVED   |  DISTANCE CHANGED  |  DISTANCE CHANGED | PASS  |
-| TC 3 |   LED   |  SENSOR ON  | GLOW | PASS  |
+| TC 3 |   LED SENSOR ON   | GLOW    | GLOW | PASS  |
+| TC 4 |   LED SENSOR OFF  | NOT GLOW | NOT GLOW | PASS |
+| TC 5 |   BUZZER SOUND FOR PARTICULAR DISTANCE | BUZZER ON | BUZZER ON |IN FUTURE |
 ## LOW LEVEL REQUIREMENT
 |  ID   | Explaination | EXPECTED RESULT | RESULT  | PASS/FAIL |
 | ----- | ----------- | --------------- | ------  | --------- |
