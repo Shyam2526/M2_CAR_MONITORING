@@ -7,9 +7,5 @@
 ## Badges 
 * Codacy - Static Code Analysis
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/bfa8db013be648bdb5f1a6d37bf6970c)](https://www.codacy.com/gh/Shyam2526/M2_CAR_MONITORING/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Shyam2526/M2_CAR_MONITORING&amp;utm_campaign=Badge_Grade)
-
-* Codiga - Static Analysis
-![Quality](https://app.codiga.io/project/33072/dashboard)
-
 * Codiga - Static Code Analysis
-[![codiga](https://img.shields.io/badge/CODIGA_GRADE-A-blue.svg)](https://api.codiga.io/project/33072/status/svg)
+[![codiga](https://img.shields.io/badge/CODIGA_GRADE-A-green.svg)](https://app.codiga.io/project/33072/dashboard)
