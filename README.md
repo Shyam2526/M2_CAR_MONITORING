@@ -29,9 +29,13 @@
 | 5_Report | FinalReport.md |
 | 6_Output | Video, Readme.md, mainpro.hex, temperature and humidity control.sim1 |
 
+## Block Diagram
+
+![Untitled Diagram drawio (2)](https://user-images.githubusercontent.com/101013448/164976735-9f16917b-2066-4c40-ae15-9d38698153df.png)
+
 ## Flowchart
 
-![IMG](https://user-images.githubusercontent.com/101013448/164893446-cfc2f257-23b9-4a54-abed-e815993fc763.jpg)
+![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/101013448/164976746-607c1fe3-5730-43cf-99ef-a435b4cc6a96.png)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Shyam2526)
