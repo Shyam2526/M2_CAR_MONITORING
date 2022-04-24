@@ -1,9 +1,10 @@
 # M2_CAR_MONITORING
-* This project "CAR_MONITORING" is about find the obstacle opposite to the users.
+* This project "CAR_MONITORING" is about find the obstacle opposite to the users and also check the Engine Heat.
 * Using this project,
     ```bash
       1) Find obstacles using ultrasonic
       2) Using Transducer to send and recieve the pulses
+      3) Check the Car Engine Temperature
     ```
 ## Installation
 
