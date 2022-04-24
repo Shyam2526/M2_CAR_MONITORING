@@ -1,7 +1,7 @@
 # ABSTRACT
 
 * This project "CAR MONITORING" is about protect the car from different issues like finding obstacle and Engine Temperature. 
-* In this project, a Temperature is replaced by Poteniometer to show the Engine Temperature. A Fixed Voltage Source is provide to supply constant voltage to the           poteniometer.
+* In this project, a Temperature is replaced by Potentiometer to show the Engine Temperature. A Fixed Voltage Source is provide to supply constant voltage to the potentiometer.
 * If the temperature of the Car Engine is below 20 degree, LED 1 will glow.
 * Similarly, if the temperature of the Car Engine is below 50 and above 20 degree, LED 2 will glow.
 * But the temperature is above 50, tha car engine is in danger and the buzzer is ON to provide signal to the driver.
