@@ -1,3 +1,7 @@
+# Block Diagram
+
+![Untitled Diagram drawio (2)](https://user-images.githubusercontent.com/101013448/164976895-d58f3e1f-f5f4-49a7-a205-1fa4155e105f.png)
+
 # Flow Chart
 ## STRUCTURAL DIAGRAM
 
