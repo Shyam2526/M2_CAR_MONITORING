@@ -1,6 +1,6 @@
 # CAR MONITORING
 ## ABSTRACT
-This project "CAR MONITORING" is about protect the car from different issues like finding obstacle and Engine Temperature. In this project, a Temperature is replaced by Poteniometer to show the Engine Temperature. A Fixed Voltage Source is provide to supply constant voltage to the poteniometer. If the temperature of the Car Engine is below 20 degree, LED 1 will glow. Similarly, if the temperature of the Car Engine is below 50 and above 20 degree, LED 2 will glow. But the temperature is above 50, tha car engine is in danger and the buzzer is ON to provide signal to the driver. The ultrasonic sensor is trigged and echoed by atmega328 D0 and D2 pins. The LCD connections are given to the atmega328 for displaying the values. Trigger PIN is used to trigger the sensor to measure the distance, the distance is calculated by the pulse. The pulse is changed every time when the ultrasonic sensor is activated. When the sensor has moved the distance that the sensor moved is displayed. 
+This project "CAR MONITORING" is about protect the car from different issues like finding obstacle and Engine Temperature. In this project, a Temperature is replaced by Potentiometer to show the Engine Temperature. A Fixed Voltage Source is provide to supply constant voltage to the potentiometer. If the temperature of the Car Engine is below 20 degree, LED 1 will glow. Similarly, if the temperature of the Car Engine is below 50 and above 20 degree, LED 2 will glow. But the temperature is above 50, tha car engine is in danger and the buzzer is ON to provide signal to the driver. The ultrasonic sensor is trigged and echoed by atmega328 D0 and D2 pins. The LCD connections are given to the atmega328 for displaying the values. Trigger PIN is used to trigger the sensor to measure the distance, the distance is calculated by the pulse. The pulse is changed every time when the ultrasonic sensor is activated. When the sensor has moved the distance that the sensor moved is displayed. 
 
 
 ## INTRODUCTION
@@ -10,13 +10,17 @@ This project "CAR MONITORING" is about protect the car from different issues lik
   * Ultrasonic Sensor is provide for the obstacles which is near to the front of the car to give signal to the user about the obstacles with the clear measured distance.
   * In Ultrasonic, transducer is used to send and receive the pulse to calculate or measure the distance of the obstacles. The measured distance is connected to the display. 
 
+## BLOCK DIAGRAM
+
+![Untitled Diagram drawio (2)](https://user-images.githubusercontent.com/101013448/164976527-8fe343e7-d76e-472c-a440-fda3e82d79f1.png)
+
 ## FLOW CHART
 
-![CHART](https://github.com/Shyam2526/M1_BusTicket/blob/master/IMG.jpg)
- 
+ ![Untitled Diagram drawio](https://user-images.githubusercontent.com/101013448/164976417-1c3965a5-d9c5-4222-aa3a-888e99cb06a0.png)
+
 __fig1.1 Behavioural Flowchart__
- 
-![FLOW](https://github.com/Shyam2526/M1_BusTicket/blob/master/im.jpg)
+
+ ![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/101013448/164976398-3e08dc4b-893b-43ee-9cf9-30c5e0077d0e.png)
 
 __fig1.2 Structural Flowchart__
 
@@ -37,7 +41,7 @@ __fig1.2 Structural Flowchart__
 * LEDs are “directional” light sources, which means they emit light in a specific direction, unlike incandescent and CFL, which emit light and heat in all directions. That means LEDs are able to use light and energy more efficiently in a multitude of applications.
 ## WORKING
 * This project is mainly based on monitoring of the vehile, which includes cars, trucks, lorry,etc.
-* Main component of any vehicle is Engine, In this project the temperature of the engine is monitored using poteniometer insteat of DHT22.
+* Main component of any vehicle is Engine, In this project the temperature of the engine is monitored using potentiometer insteat of DHT22.
 * The temperature is continously monitored by the sensor to gives constant signal to the user.
 * If the temperature of the Car Engine is below 20 degree, LED 1 will glow. 
 * Similarly, if the temperature of the Car Engine is below 50 and above 20 degree, LED 2 will glow.
