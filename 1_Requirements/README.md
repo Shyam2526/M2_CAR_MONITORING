@@ -1,11 +1,12 @@
 # Requirements
 ##  Features
-  * Easy to find the obstacles.
-  * To avoid accidents by providing signals to the user.
-  * Automatic controlling using ultrasonic.
+  * Easy way to monitoring the car.
+  * Check the Car Engines Temperature using Temperature Sensor.
+  * Buzzer will ON, if the Car Engine is in Danger.
+  * To avoid accidents by providing signals to the user by providing Ultrasonic Sensor.
 
 ## Research
-  * Referred to many Arduino Ultrasonic-based projects.
+  * Referred to many Arduino Ultrasonic-based projects and Analog Input Based projects.
   * Referred many e-sources for the coding part of LCD.
        
 ##  Key features
@@ -16,11 +17,11 @@
 # The 4W's and an H 
 
 ## WHAT
-  * It is the controlling of Ultrasonic Sensor to find the distance.
+  * It is the controlling the pulses of Ultrasonic Transducer and ENgines Temperature.
 ## WHY
-  * The main objective of this project is to avoid accidents by giving led signals.
+  * To Check the Car Engine Temperature is in Normal Degree and also the obstacles.
 ## WHO
-  * Youngsters who drive cars for the initial stages.
+  * Person, who drive or going long journey make the vehicle runs properly.
 ## WHERE
   * This project mainly comes in use for driving four-wheelers and six-wheelers.
 ## HOW
@@ -29,6 +30,7 @@
 # SWOT ANALYSIS OF THE PROJECT
  ## STRENGTHS:
    * Easily Operating.
+   * Monitoring continously.
    * Platform Independent.
  ## WEAKNESS:
    * Controlling using WEB.
@@ -41,13 +43,15 @@
 
 |  ID   | Description | Status (Implemented/In Future) |
 | ----- | ----------- | ------------------------------ |
-| HLR 1 |     Ultrasonic Distance Monitoring  |  Implemented  |
-| HLR 2 |    LCD Monitor   | Implemented |
+| HLR 1 | Temperature Sensor | Implemented |
+| HLR 2 |     Ultrasonic Distance Monitoring  |  Implemented  |
+| HLR 3 |    LCD Monitor   | Implemented |
+| HLR 4 | LED and BUZZER | Implemented |
 | HLR 3 |    Online monitoring/Control   | In Future |
 
 ## Low Level Requirements:
 
 |  ID   | Description | Status (Implemented/ In Future) |
 | ----- | ----------- | ------------------------------- |
-| LLR 1 |   Simulide Application Opened   |  Implemented  |
+| LLR 1 |   Simulide Application |  Implemented  |
 | LLR 2 |   Proteus   | In Future |
